@@ -10,7 +10,7 @@ Creditcheckservice is the provider.
 
 Centralized-contract-repo is where the contracts were put.
 
-The contracts are DSL written in Groovy. They define the expected provider API return when a mapped request is received.
+The contracts are DSL files written in Groovy. They define the expected provider service return when a mapped request is received.
 It is covered REST API and Messages sample tests.
 
 The project was written using Kotlin programming language.
