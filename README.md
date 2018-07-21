@@ -1,5 +1,5 @@
 # spring-cloud-contract-sample
 
-This project was done studying following the pluralsight course: https://app.pluralsight.com/library/courses/spring-cloud-contract-introduction
+Project study about Spring Cloud Contract. 
 
-The course uses Java. I used Kotlin instead.
+Reference: https://app.pluralsight.com/library/courses/spring-cloud-contract-introduction
