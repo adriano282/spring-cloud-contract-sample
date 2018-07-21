@@ -1,8 +1,8 @@
 # spring-cloud-contract-sample
 
-Project study about Spring Cloud Contract. 
+Contract Driven API Development: Study Project about Spring Cloud Contract. 
 
-Contract Driven API Development.
+Projects: 
 
 Creditcardservice is the consumer of Creditcheckservice service.
 
