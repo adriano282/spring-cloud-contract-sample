@@ -15,6 +15,6 @@ It is covered REST API and Messages sample tests.
 
 The project was written using Kotlin programming language.
 
-The Spring lib that enable the use of contracts is Spring Cloud Contract: https://cloud.spring.io/spring-cloud-contract/
+The Spring lib that enables the use of contracts is Spring Cloud Contract: https://cloud.spring.io/spring-cloud-contract/
 
 Reference: https://app.pluralsight.com/library/courses/spring-cloud-contract-introduction
