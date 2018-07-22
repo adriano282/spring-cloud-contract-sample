@@ -17,7 +17,7 @@ Centralized-contract-repo is where the contracts were put.
 # Contracts
 
 The contracts are DSL files written in Groovy. They define the expected provider service return when a mapped request is received.
-It is covered REST API and Messages communication sample tests.
+It is covered HTTP Based and Messaging Based communication sample tests.
 
 # Other info
 
