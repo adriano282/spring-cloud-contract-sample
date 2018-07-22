@@ -2,7 +2,7 @@
 
 Contract Driven API Development: Study Project about Spring Cloud Contract. 
 
-The sample code is a simple Service that consumes other Service using defined communitation contracts for doing isolated integration tests.
+The sample code is a simple Service that consumes other Service using defined communication contracts for doing isolated integration tests.
 
 
 # Projects: 
